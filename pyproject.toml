@@ -1,0 +1,19 @@
+[project]
+name = "jcode-mongoose"
+version = "0.1.0"
+description = "Mongoose model definition and populate edges for jcode"
+readme = "README.md"
+requires-python = ">=3.12"
+license = { text = "MIT" }
+authors = [{ name = "Joel Thomas", email = "joel@codewithjoe.in" }]
+dependencies = ["jcode>=0.1.0"]
+
+[project.urls]
+Repository = "https://github.com/codewithjoes-tech/jcode-mongoose"
+
+[project.entry-points."jcode.plugins"]
+mongoose = "jcode_mongoose.plugin:create"
+
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
