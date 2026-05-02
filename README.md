@@ -1,6 +1,6 @@
 # jcode-mongoose
 
-Mongoose model definition and populate edges for [jcode](https://github.com/codewithjoes-tech/jcode).
+Mongoose model definition and populate edges for [jcode](https://github.com/codewithjoe-tech/jcode).
 
 ## What it does
 
@@ -38,8 +38,8 @@ The `model()` check requires the receiver to be `mongoose`, `db`, `connection`, 
 
 ## Part of the jcode ecosystem
 
-- [jcode](https://github.com/codewithjoes-tech/jcode) — core CLI and MCP server
-- [jcode-registry](https://github.com/codewithjoes-tech/jcode-registry) — plugin registry
+- [jcode](https://github.com/codewithjoe-tech/jcode) — core CLI and MCP server
+- [jcode-registry](https://github.com/codewithjoe-tech/jcode-registry) — plugin registry
 
 ---
 
