@@ -44,3 +44,9 @@ The `model()` check requires the receiver to be `mongoose`, `db`, `connection`, 
 ---
 
 Made by [Joel Thomas](https://codewithjoe.in)
+
+---
+
+## License
+
+MIT — free to use, modify, distribute, and build commercial products on top of. See [LICENSE](LICENSE).
